@@ -1,2 +1,2 @@
 # JavaCourse
-All Java exercises from my Java masterclass
+All Java exercises from my Java masterclass. A folder, a project. I may post the problems themselves one day... 
