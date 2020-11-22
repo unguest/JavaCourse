@@ -1,7 +1,5 @@
 package com.unguest.LeapYear;
 
-import java.util.function.Consumer;
-
 public class LeapYear {
 
     public static boolean isLeapYear(int year) {
